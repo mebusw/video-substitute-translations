@@ -1,0 +1,350 @@
+0
+0:0:00,000 --> 0:0:08,000
+Jacky Shen (CST, CTC) / Sally Cai (CSP)
+中文字幕由自组织Scrum团队提供 （Build 20180915）
+
+1
+0:0:10,000 --> 0:0:17,000
+yeah yeah. hi hi. hi, buddy 
+yeah yeah. hi hi. 你好伙计
+
+2
+0:0:17,000 --> 0:0:21,000
+you know you have to be on time for the daily standup
+你知道你必须准时参加每日站会
+
+2
+0:0:21,000 --> 0:0:27,000
+it is the same time same location every day, loser!
+每天都是同一时间、同一地点, 屌丝！
+
+4
+0:0:37,000 --> 0:0:39,000
+the daily stand-up is crucial,
+每日站会是至关重要的
+
+5
+0:0:39,000 --> 0:0:41,000
+you can't be late for the daily stand-up 
+你每天都不能迟到
+
+6
+0:0:41,000 --> 0:0:44,000
+you don't let your teammates wait
+你不能让你的队友等你
+
+7
+0:0:44,000 --> 0:0:45,000
+you know the first time I heard
+当我第一次听说Scrum
+
+8
+0:0:45,000 --> 0:0:47,000
+about this SCRUM thing 
+当我第一次听说Scrum
+
+9
+0:0:47,000 --> 0:0:50,000
+I didn't think it would fit our organization, however 
+我不认为它适合我们的组织，但是
+
+10
+0:0:50,000 --> 0:0:52,000
+after we sent Ian to ScrumMaster training,
+在我们派Ian去参加Scrum Master(CSM)培训之后,
+
+11
+0:0:52,000 --> 0:0:54,000
+things rapidly changed around here.
+突然间周围迅速开始发生很多改变
+
+12
+0:0:54,000 --> 0:0:56,000
+I'm the process officer, wow
+我是过程的督导，喔~
+
+121
+0:0:57,000 --> 0:0:58,000
+thanks Wendy
+谢谢，温蒂
+
+
+13
+0:1:01,000 --> 0:1:05,000
+hi Mike, I can make this incredible deal
+你好，麦克。 我将要搞一笔大买卖
+
+14
+0:1:05,000 --> 0:1:09,000
+lots of bonus, I just need a mount of change
+会有大笔奖金, 只需要你改一点东西
+
+15
+0:1:09,000 --> 0:1:11,000
+it's just a few hours of work
+只是几个小时的工作
+
+16
+0:1:11,000 --> 0:1:13,000
+Come on ! Can you do it for me? 
+来吧！你可以帮我做吗？
+
+161
+0:1:13,000 --> 0:1:16,000
+I will give you this donut if you do it.
+我会送你这个甜甜圈的
+
+17
+0:1:16,000 --> 0:1:18,000
+You fool! Never interrupte the team! 
+傻瓜！永远不要打断团队的节奏！
+
+171
+0:1:18,000 --> 0:1:20,000
+They're in their sprints
+他们在自己的Sprints(迭代)里面工作
+
+18
+0:1:20,000 --> 0:1:23,000
+they have focus, so no changes! If you want extras,
+他们要全神贯注，所以不要变更！ 如果你需要什么额外的东西，
+
+19
+0:1:23,000 --> 0:1:26,000
+go to the Product Owner. 
+去跟产品负责人(PO)商量
+
+20
+0:1:29,000 --> 0:1:33,000
+I am the process enabler, strong works great, but 
+我是这个过程的使能者，强壮当然很好，但
+
+21
+0:1:33,000 --> 0:1:35,000
+let the team do the work. 
+必须让团队自己决定怎么工作
+
+22
+0:1:35,000 --> 0:1:38,000
+that's what they're good at. they deserve being left alone
+这也是他们最擅长的。他们应该独处
+
+23
+0:1:38,000 --> 0:1:41,000
+I'll take care of that. 
+我会确保这一点
+
+24
+0:1:41,000 --> 0:1:45,000
+Do I enjoy doing that? hell yeah! 
+我非常喜欢做这件事情吗? 当然咯！
+
+25
+0:1:45,000 --> 0:1:47,000
+after we introduce scrum, the productivity of our teams went
+在我们引入Scrum以后，我们团队的生产力
+
+26
+0:1:47,000 --> 0:1:49,000
+through the roof, they focused on
+冲破了天花板，他们专注在
+
+27
+0:1:49,000 --> 0:1:51,000
+maximizing value by delivering a new
+商业价值的最大化上
+
+28
+0:1:51,000 --> 0:1:53,000
+version of our product every two weeks
+每两周发布一个我们产品的新版本
+
+29
+0:1:53,000 --> 0:1:56,000
+rapid value creation is key. 
+关键就是要能够快速地产生价值。
+
+30
+0:2:00,000 --> 0:2:03,000
+Hey, I finished this feature yesterday 
+嘿，我昨天就已经把这个功能做完了
+
+31
+0:2:03,000 --> 0:2:05,000
+the code is done but we still need to run it
+代码的确是写完了
+
+32
+0:2:05,000 --> 0:2:09,000
+to a regression test, quality is key 
+但我们还要跑回归测试，质量才是关键
+
+33
+0:2:09,000 --> 0:2:13,000
+I'm sure it works, I'll put it to done 
+我确信代码是可以运行的, 我要把它放在'完成'这边
+
+34
+0:2:13,000 --> 0:2:19,000
+it's not tested 
+它还没有被测试
+
+35
+0:2:19,000 --> 0:2:24,000
+Oh, done means done, if it's not done, it is not done 
+哦~ 完成就是完成,如果没有完成就是没有完成  
+
+36
+0:2:24,000 --> 0:2:29,000
+Hey Lisa, you know that, don't mess up scrum board 
+你好 Lisa. 你知道的，不要搞乱了Scrum板
+
+37
+0:2:31,000 --> 0:2:32,000
+Ian is not only here to
+Ian在这里不仅仅是
+
+38
+0:2:32,000 --> 0:2:34,000
+enable the process and protect the team
+让过程运转起来，他还保护团队
+
+39
+0:2:34,000 --> 0:2:36,000
+he's also here to facilitate the team
+他也会引导团队
+
+40
+0:2:36,000 --> 0:2:38,000
+and to coach them, he helps them to
+扮演团队的教练, 他帮助团队
+
+41
+0:2:38,000 --> 0:2:42,000
+create the best day possible every day
+尽量让他们的每一天都是最好的一天
+
+42
+0:2:43,000 --> 0:2:47,000
+Anyone like some coffee? yeah come on
+你们想要点咖啡吗? 是的 来吧
+
+43
+0:2:47,000 --> 0:2:50,000
+Sit up straight, you don't want your back to get hurt
+坐直了，别让你的背受伤。
+
+44
+0:2:50,000 --> 0:2:52,000
+Wait! let me help you with that
+等等，我来帮你
+
+45
+0:2:53,000 --> 0:2:58,000
+Nice! there you must feel work much better now
+舒服！现在感觉好点了吧
+
+46
+0:2:58,000 --> 0:2:59,000
+Enjoy your coffee.
+好好享受咖啡吧
+
+47
+0:2:59,000 --> 0:3:01,000
+thanks Ian
+谢谢，Ian
+
+48
+0:3:03,000 --> 0:3:05,000
+a scrum master needs to do what needs to be done 
+一个Scrum Master就应该做该做的事
+
+49
+0:3:05,000 --> 0:3:08,000
+I am a facilitator 
+作为一个引导者
+
+50
+0:3:08,000 --> 0:3:11,000
+it's not about me, it's about the team. 
+这不是关于我自己，而是团队。
+
+51
+0:3:11,000 --> 0:3:16,000
+anything that needs to be done, I take care of that
+任何需要做的事情，我都会关心
+
+511
+0:3:18,000 --> 0:3:19,000
+hold on
+等一下
+
+52
+0:3:27,000 --> 0:3:29,000
+hey Ian, speed up, we're losing power
+嘿，Ian，加速，我们停电了
+
+53
+0:3:29,000 --> 0:3:35,000
+working on it
+我正在努力
+
+531
+0:3:35,000 --> 0:3:37,000
+I'm back, yeah
+我回来了
+
+54
+0:3:39,000 --> 0:3:42,000
+Ian is a scrum master 
+Ian是Scrum Master，
+
+55
+0:3:42,000 --> 0:3:44,000
+he protects the team he coaches the team
+他保护团队，当团队的教练，
+
+56
+0:3:44,000 --> 0:3:46,000
+and he ensures that impediments are busted  
+并且他还保证移除障碍
+
+57
+0:3:46,000 --> 0:3:49,000
+and do I mind the way he does that? of course not!
+我会介意他怎么做到的吗？当然不会!
+
+58
+0:3:49,000 --> 0:3:53,000
+it's the end result that counts
+最终结果才是重要的
+
+59
+0:3:57,000 --> 0:3:59,000
+it's Scrum that makes it work 
+是Scrum令事情运作
+
+60
+0:3:59,000 --> 0:4:02,000
+it's the team that does the work 
+是团队在做实际的工作，但是
+
+61
+0:4:02,000 --> 0:4:06,000
+but still you do need your Scrum Master
+你确实需要你的Scrum Master
+
+62
+0:4:33,000 --> 0:4:36,000
+Buy the book 《the power of Scrum》 at the Amazon.com
+马上去亚马逊上面买《the power of Scrum》这本书
+
+63
+0:4:36,000 --> 0:4:39,000
+now or else I will be there to 
+否则我将会
+
+64
+0:4:39,000 --> 0:4:45,000
+pay YOU a visit
+来拜访你
