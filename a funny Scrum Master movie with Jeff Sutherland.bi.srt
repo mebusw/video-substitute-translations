@@ -102,7 +102,7 @@ You fool! Never interrupte the team!
 171
 0:1:18,000 --> 0:1:20,000
 They're in their sprints
-他们在自己的Sprints(迭代)里面工作
+他们在自己的Sprints(迭代短时间盒)里面工作
 
 18
 0:1:20,000 --> 0:1:23,000
@@ -117,7 +117,7 @@ go to the Product Owner.
 20
 0:1:29,000 --> 0:1:33,000
 I am the process enabler, strong works great, but 
-我是这个过程的使能者，强壮当然很好，但
+我是这个过程的使能者，自己强力固然好，但
 
 21
 0:1:33,000 --> 0:1:35,000
@@ -182,7 +182,7 @@ to a regression test, quality is key
 33
 0:2:09,000 --> 0:2:13,000
 I'm sure it works, I'll put it to done 
-我确信代码是可以运行的, 我要把它放在'完成'这边
+我确信代码是可以运行的, 我要把它放在「完成」这边
 
 34
 0:2:13,000 --> 0:2:19,000
@@ -262,7 +262,7 @@ a scrum master needs to do what needs to be done
 49
 0:3:05,000 --> 0:3:08,000
 I am a facilitator 
-作为一个引导者
+作为一个引导师
 
 50
 0:3:08,000 --> 0:3:11,000
@@ -282,7 +282,7 @@ hold on
 52
 0:3:27,000 --> 0:3:29,000
 hey Ian, speed up, we're losing power
-嘿，Ian，加速，我们停电了
+嘿，Ian，快点儿，我们停电了
 
 53
 0:3:29,000 --> 0:3:35,000
@@ -337,7 +337,7 @@ but still you do need your Scrum Master
 62
 0:4:33,000 --> 0:4:36,000
 Buy the book 《the power of Scrum》 at the Amazon.com
-马上去亚马逊上面买《the power of Scrum》这本书
+去优普丰敏捷学院 (www.UPerform.cn) 学学看看
 
 63
 0:4:36,000 --> 0:4:39,000
@@ -348,3 +348,9 @@ now or else I will be there to
 0:4:39,000 --> 0:4:45,000
 pay YOU a visit
 来拜访你
+
+65
+0:4:45,000 --> 0:4:50,000
+Jacky Shen (CST, CTC) / Sally Cai (CSP)
+中文字幕由自组织Scrum团队提供 （Build 20180915）
+
