@@ -1,0 +1,2557 @@
+1
+00:00:00,110 --> 00:00:05,799
+翻译：申导（CST认证敏捷教练）
+
+2
+00:00:05,799 --> 00:00:07,480
+ever since computers were invented，they've
+自从计算机被发明以来，
+
+3
+00:00:07,480 --> 00:00:08,960
+really just been glorified calculators machines
+实际上它们只是被美化的计算器机器，
+
+4
+00:00:08,960 --> 00:00:11,400
+that execute the exact instructions 
+可以执行
+
+5
+00:00:11,400 --> 00:00:13,160
+given to them by the programmers
+程序员给出的精确指令
+
+6
+00:00:13,160 --> 00:00:15,120
+but something incredible is
+但令人难以置信的事情正在发生，
+
+7
+00:00:15,120 --> 00:00:16,920
+happening now computers have started
+现在计算机已经开始
+
+8
+00:00:16,920 --> 00:00:19,359
+gaining the ability to learn and think
+获得像我们一样学习、思考
+
+9
+00:00:19,359 --> 00:00:21,560
+and communicate just like we do they can
+和交流的能力
+
+10
+00:00:21,560 --> 00:00:23,359
+do creative intellectual work that
+他们可以做
+
+11
+00:00:23,359 --> 00:00:25,320
+previously only humans could do we call
+以前只有人类才能做的创造性智力工作
+
+12
+00:00:25,320 --> 00:00:27,760
+this technology generative AI and you
+我们称之为生成人工智能
+
+13
+00:00:27,760 --> 00:00:29,240
+may have encountered it already through
+你可能已经通过 GPT 等产品遇到过它，
+
+14
+00:00:29,240 --> 00:00:32,399
+products like GPT basically intelligence
+基本上，智能现在可以
+
+15
+00:00:32,399 --> 00:00:34,320
+is now available as a service kind of
+作为一种服务提供，
+
+16
+00:00:34,320 --> 00:00:36,360
+like a giant brain floating in the sky
+就像漂浮在天空中的巨大大脑一样，
+
+17
+00:00:36,360 --> 00:00:39,040
+that anyone can talk to 
+任何人都可以与之交谈
+
+18
+00:00:39,040 --> 00:00:40,840
+it's not perfect but it is surprisingly capable and it is
+它并不完美，但它的能力令人惊讶
+
+19
+00:00:40,840 --> 00:00:43,360
+improving at an exponential rate this is
+并且正在以指数级的速度改进
+
+20
+00:00:43,360 --> 00:00:45,360
+a big deal it's going to affect just
+这是一件大事
+
+21
+00:00:45,360 --> 00:00:47,320
+about every person and Company on the
+它将对地球上的每个人和公司产生
+
+22
+00:00:47,320 --> 00:00:49,520
+planet positively or negatively this
+积极或消极的影响
+
+23
+00:00:49,520 --> 00:00:51,039
+video is here to help you understand
+这段视频旨在帮助您了解
+
+24
+00:00:51,039 --> 00:00:53,000
+what generative AI is all about in
+什么是生成式人工智能 
+
+25
+00:00:53,000 --> 00:00:54,879
+Practical terms beyond the hype 
+全都是超越炒作的实用术语，
+
+26
+00:00:54,879 --> 00:00:56,719
+the better you understand this technology as
+作为个人团队或公司
+
+27
+00:00:56,719 --> 00:00:58,760
+a person team or company the better
+你对这项技术了解得越多
+
+28
+00:00:58,760 --> 00:01:00,320
+equipped you will be to survive and
+你就越有能力在人工智能时代
+
+29
+00:01:00,320 --> 00:01:03,000
+thrive in the age of AI so here's a
+生存和发展，所以这里有一个
+
+30
+00:01:03,000 --> 00:01:05,519
+silly but useful mental model for this
+愚蠢但有用的心理模型你可以使用，
+
+31
+00:01:05,519 --> 00:01:07,880
+you have Einstein in your basement
+假设每个人的地下室里有一位爱因斯坦
+
+32
+00:01:07,880 --> 00:01:10,520
+in fact everyone does and by Einstein I
+每个人都有
+
+33
+00:01:10,520 --> 00:01:12,280
+really mean the combination of every
+爱因斯坦的真正意思是指
+
+34
+00:01:12,280 --> 00:01:14,520
+smart person who ever lived 
+历史上所有聪明人的组合体
+
+35
+00:01:14,520 --> 00:01:16,240
+you can talk to Einstein whenever you want he has
+你可以随时与爱因斯坦交谈
+
+36
+00:01:16,240 --> 00:01:18,159
+instant access to the sum of all human
+而他可以立即访问所有人类知识的总和
+
+37
+00:01:18,159 --> 00:01:20,280
+knowledge and will answer anything you
+并且会在几秒钟内回答
+
+38
+00:01:20,280 --> 00:01:21,920
+want within seconds never running out of
+你想要的任何问题
+
+39
+00:01:21,920 --> 00:01:23,759
+patience he can also take on any role
+永远充满耐心
+
+40
+00:01:23,759 --> 00:01:27,400
+you want a comedian poet doctor coach
+他还可以扮演任何你想要的角色
+
+41
+00:01:27,400 --> 00:01:29,520
+and will be an expert within that field
+喜剧演员、诗人、医生、教练，并成为该领域的专家
+
+42
+00:01:29,520 --> 00:01:31,520
+he has some human-like limitations though
+他也像人类一样存在局限性
+
+43
+00:01:31,520 --> 00:01:33,360
+he can make mistakes he can jump
+他可能会犯错误
+
+44
+00:01:33,360 --> 00:01:35,600
+to conclusions he can misunderstand you
+可能回草率下结论，他可能会误解你
+
+45
+00:01:35,600 --> 00:01:37,159
+but the biggest limitation is actually
+但最大的限制实际上是
+
+46
+00:01:37,159 --> 00:01:39,159
+your imagination and your ability to
+你的想象力以及
+
+47
+00:01:39,159 --> 00:01:41,079
+communicate effectively with them this
+你与他们有效沟通的能力
+
+48
+00:01:41,079 --> 00:01:43,600
+skill is known as Prompt Engineering and
+这种技能被称为“提示词工程”
+
+49
+00:01:43,600 --> 00:01:46,560
+in the age of AI this is as essential as
+在人工智能时代
+
+50
+00:01:46,560 --> 00:01:49,040
+reading and writing most people vastly
+这与阅读和写作一样重要
+
+51
+00:01:49,040 --> 00:01:51,000
+underestimate what this Einstein in your
+大多数人都大大低估了
+
+52
+00:01:51,000 --> 00:01:53,079
+basement can do it's like going to the
+地下室里的爱因斯坦的能力
+
+53
+00:01:53,079 --> 00:01:55,079
+real Einstein and asking him to proof
+就像去问真正的爱因斯坦，请他
+
+54
+00:01:55,079 --> 00:01:56,880
+read a high school report or hiring a
+校对一份高中报告，或者聘请一位
+
+55
+00:01:56,880 --> 00:01:59,280
+worldclass five-star chef and having him
+世界级的五星级厨师让他切洋葱
+
+56
+00:01:59,280 --> 00:02:01,200
+chop onion the more you interact with
+你与爱因斯坦互动越多
+
+57
+00:02:01,200 --> 00:02:02,719
+Einstein the more you will discover
+你就越会发现
+
+58
+00:02:02,719 --> 00:02:04,960
+surprising and powerful ways for him to
+他帮助你或你的公司的
+
+59
+00:02:04,960 --> 00:02:07,079
+help you or your company okay enough
+令人惊讶和强大的手段
+
+60
+00:02:07,079 --> 00:02:08,679
+fluffy metaphors let's clarify some terms 
+好吧，让我们澄清一些术语
+
+61
+00:02:08,679 --> 00:02:11,680
+AI as you probably know stands for
+AI，你可能知道它代表“人工智能”
+
+62
+00:02:11,680 --> 00:02:14,640
+artificial intelligence， AI is not new
+AI 并不是什么新鲜事
+
+63
+00:02:14,640 --> 00:02:15,920
+fields like machine learning and computer
+像机器学习和计算机视觉等领域
+
+64
+00:02:15,920 --> 00:02:17,680
+vision have been around for decades
+一样已经存在了几十年
+
+65
+00:02:17,680 --> 00:02:18,760
+whenever you see a YouTube
+每当你看到 YouTube 或B站
+
+66
+00:02:18,760 --> 00:02:21,120
+recommendation or a web search result or
+等视频网站的推荐，或网络搜索结果
+
+67
+00:02:21,120 --> 00:02:22,319
+whenever you get a credit card
+或每当你获批进行信用卡交易时
+
+68
+00:02:22,319 --> 00:02:24,400
+transaction approved that's traditional
+那就是传统的人工智能在工作
+
+69
+00:02:24,400 --> 00:02:27,200
+AI in action, generative AI is AI that
+生成式人工智能是
+
+70
+00:02:27,200 --> 00:02:29,360
+generates new original content rather
+生成新的原始内容的人工智能
+
+71
+00:02:29,360 --> 00:02:30,959
+than just finding or classifying
+而不仅仅是查找或分类现有内容
+
+72
+00:02:30,959 --> 00:02:33,680
+existing content that's the G in GPT 
+即 GPT 中的 G(enerative)
+
+73
+00:02:33,680 --> 00:02:36,720
+for example Large Language Models or LLMs
+例如大型语言模型(LLM)
+
+74
+00:02:36,720 --> 00:02:38,599
+are a type of generative AI that can
+是一种生成式人工智能
+
+75
+00:02:38,599 --> 00:02:41,200
+communicate using normal human language
+可以使用普通的人类语言
+
+76
+00:02:41,200 --> 00:02:43,400
+chatGPT is a product by the company
+chatGPT 是 open AI 公司的一款产品，
+
+77
+00:02:43,400 --> 00:02:46,159
+open AI it started as an LLM essentially
+它最初是一个 LLM，本质上是
+
+78
+00:02:46,159 --> 00:02:47,840
+an advanced chatbot using a new
+一个高级聊天机器人，使用一种
+
+79
+00:02:47,840 --> 00:02:49,319
+architecture called the Transformer
+称为 Transformer 架构
+
+80
+00:02:49,319 --> 00:02:51,000
+architecture which by the way is the T in GPT 
+的新架构，顺便说一下
+
+81
+00:02:51,000 --> 00:02:54,120
+it is so fluent at human language
+它是 GPT 中的 T，它对人类语言非常流利
+
+82
+00:02:54,120 --> 00:02:55,879
+that anyone can use it, you don't need to
+任何人都可以使用它。而你不需要
+
+83
+00:02:55,879 --> 00:02:57,920
+be an AI expert or programmer and that's
+成为一名人工智能专家或程序员
+
+84
+00:02:57,920 --> 00:02:58,840
+kind of what triggered the whole Revolution
+就是引发整个革命的原因，
+
+85
+00:02:58,840 --> 00:03:02,000
+so how does it actually work?
+那么它实际上如何运作?
+
+86
+00:03:02,000 --> 00:03:03,840
+well a large language model is an
+大语言模型是一个
+
+87
+00:03:03,840 --> 00:03:06,159
+artificial neural network basically a
+人工神经网络，基本上是
+
+88
+00:03:06,159 --> 00:03:08,200
+bunch of numbers or or parameters
+一堆彼此连接的数字或参数，
+
+89
+00:03:08,200 --> 00:03:09,760
+connected to each other similar to how
+类似于我们的大脑 
+
+90
+00:03:09,760 --> 00:03:11,400
+our brain is a bunch of neurons or brain
+是一群相互连接的神经元
+
+91
+00:03:11,400 --> 00:03:12,799
+cells connected to each other neural
+或脑细胞，神经网络只处理
+
+92
+00:03:12,799 --> 00:03:15,040
+networks only deal with numbers you send
+您以数字形式发送的
+
+93
+00:03:15,040 --> 00:03:16,480
+in numbers and depending on how the
+数字，并且根据
+
+94
+00:03:16,480 --> 00:03:18,120
+parameters are set all the numbers come
+参数的设置方式，所有数字都会
+
+95
+00:03:18,120 --> 00:03:20,400
+out but any kind of content such as text
+出来，但任何类型的内容（例如文本
+
+96
+00:03:20,400 --> 00:03:22,560
+or images can be represented as numbers
+或图像）都可以表示为数字
+
+97
+00:03:22,560 --> 00:03:25,159
+so let's say I write dogs are when I
+假设我写狗是当我将其
+
+98
+00:03:25,159 --> 00:03:27,120
+send that to a large language model that
+发送到一个大型语言模型时，该模型
+
+99
+00:03:27,120 --> 00:03:29,040
+gets converted to numbers processed by
+会转换为由神经网络处理的数字
+
+100
+00:03:29,040 --> 00:03:30,319
+the neural network and then the
+，然后将
+
+101
+00:03:30,319 --> 00:03:31,599
+resulting numbers are converted back
+结果数字转换
+
+102
+00:03:31,599 --> 00:03:34,200
+into text in this case the word animals
+回文本，在这种情况下，动物这个词
+
+103
+00:03:34,200 --> 00:03:36,760
+dogs are animals so yeah this is
+狗是动物，所以是的，这
+
+104
+00:03:36,760 --> 00:03:39,080
+basically a guest to next word machine
+基本上是 下一个单词机的访客
+
+105
+00:03:39,080 --> 00:03:41,000
+the interesting part is if we take that
+有趣的部分是，如果我们获取该
+
+106
+00:03:41,000 --> 00:03:43,319
+output and combine it with the input and
+输出并将其与输入结合起来并
+
+107
+00:03:43,319 --> 00:03:45,120
+send it through the model again then it
+再次通过模型发送它，那么它将
+
+108
+00:03:45,120 --> 00:03:46,879
+will continue adding new words that's
+继续添加新单词，这就是
+
+109
+00:03:46,879 --> 00:03:48,040
+what's going on behind the scenes when
+当
+
+110
+00:03:48,040 --> 00:03:50,120
+you type something in chat GPT in this
+您在聊天 GPT 中键入内容时幕后发生的事情
+
+111
+00:03:50,120 --> 00:03:51,959
+case for example it generated a whole
+例如，在这种情况下，它生成了一个完整的
+
+112
+00:03:51,959 --> 00:03:53,799
+story and I can continue this
+故事，我可以
+
+113
+00:03:53,799 --> 00:03:55,640
+indefinitely by adding more
+通过添加更多提示无限期地继续下去
+
+114
+00:03:55,640 --> 00:03:58,439
+prompts a large language model may have
+大型语言模型可能有数
+
+115
+00:03:58,439 --> 00:03:59,799
+billions or even trillions of of
+十亿甚至数万亿个
+
+116
+00:03:59,799 --> 00:04:01,280
+parameters that's why they're called
+参数，这就是它们被称为
+
+117
+00:04:01,280 --> 00:04:04,120
+large so how are all these numbers set
+大型的原因，那么所有这些数字如何
+
+118
+00:04:04,120 --> 00:04:06,120
+well not through manual programming that
+不通过手动设置好 编程是
+
+119
+00:04:06,120 --> 00:04:09,079
+would be impossible but through training
+不可能的，但通过训练
+
+120
+00:04:09,079 --> 00:04:10,879
+just like babies learning to speak a
+就像婴儿学习说话一样，
+
+121
+00:04:10,879 --> 00:04:13,040
+baby isn't told how to speak she doesn't
+婴儿没有被告知如何说话，她没有
+
+122
+00:04:13,040 --> 00:04:15,000
+get an instruction manual instead she
+指导手册，而是
+
+123
+00:04:15,000 --> 00:04:16,959
+listens to people speaking around her
+听周围的人说话
+
+124
+00:04:16,959 --> 00:04:18,239
+and when she's heard enough she starts
+，当她听得足够多时，她开始
+
+125
+00:04:18,239 --> 00:04:20,040
+seeing the pattern she speaks a few
+看到她的模式 首先会说几个
+
+126
+00:04:20,040 --> 00:04:21,880
+words at first to the Delight of her
+单词让她的
+
+127
+00:04:21,880 --> 00:04:24,639
+parents and then later on full sentences
+父母高兴，然后在训练期间类似地说出完整的句子，
+
+128
+00:04:24,639 --> 00:04:26,639
+similarly during a training period the
+
+129
+00:04:26,639 --> 00:04:28,960
+language model is fed a mindboggling
+语言模型会被输入
+
+130
+00:04:28,960 --> 00:04:31,080
+amount of text to learn from Mostly from
+大量的文本来学习，主要来自
+
+131
+00:04:31,080 --> 00:04:33,360
+internet sources it then plays guess the
+互联网来源，然后它会用
+
+132
+00:04:33,360 --> 00:04:35,639
+next word with all of this over and over
+所有的信息来猜测下一个单词。 一遍又一遍，
+
+133
+00:04:35,639 --> 00:04:37,039
+again and the parameters are
+参数会
+
+134
+00:04:37,039 --> 00:04:38,840
+automatically tweaked until it starts
+自动调整，直到它开始
+
+135
+00:04:38,840 --> 00:04:40,240
+getting really good at predicting the
+真正擅长预测下一个
+
+136
+00:04:40,240 --> 00:04:41,800
+next word this is called back
+单词，这称为反向
+
+137
+00:04:41,800 --> 00:04:44,160
+propagation which is a fancy term for oh
+传播，这是一个奇特的术语，哦，
+
+138
+00:04:44,160 --> 00:04:45,400
+I guessed wrong I better change
+我猜错了，我最好改变
+
+139
+00:04:45,400 --> 00:04:47,560
+something however to become truly useful
+一些东西，但是要变得真正有用​​，
+
+140
+00:04:47,560 --> 00:04:49,520
+a model also needs to undergo human
+模型还需要 接受人类
+
+141
+00:04:49,520 --> 00:04:51,440
+training this is called reinforcement
+训练，这被称为
+
+142
+00:04:51,440 --> 00:04:53,160
+learning with human feedback and it
+带有人类反馈的强化学习，它
+
+143
+00:04:53,160 --> 00:04:55,479
+involves thousands of hours of humans
+涉及人类数千小时的
+
+144
+00:04:55,479 --> 00:04:57,199
+painstakingly testing and evaluating
+艰苦测试和评估
+
+145
+00:04:57,199 --> 00:04:58,919
+output from the model and giving
+模型的输出，并提供
+
+146
+00:04:58,919 --> 00:05:01,039
+feedback kind of like training a a dog
+反馈，就像
+
+147
+00:05:01,039 --> 00:05:02,600
+with a clicker to reinforce good
+用答题器训练狗来强化良好
+
+148
+00:05:02,600 --> 00:05:04,680
+behavior that's why a model like GPT
+行为一样，这就是为什么像 GPT 这样的模型
+
+149
+00:05:04,680 --> 00:05:06,520
+won't tell you how to rob a bank it
+不会告诉你如何抢劫银行，它
+
+150
+00:05:06,520 --> 00:05:08,360
+knows very well how to rob a bank but
+非常清楚如何抢劫银行，但
+
+151
+00:05:08,360 --> 00:05:09,720
+through human training it has learned
+通过人类训练，它知道
+
+152
+00:05:09,720 --> 00:05:11,039
+that it shouldn't help people commit
+它不应该帮助人们
+
+153
+00:05:11,039 --> 00:05:13,520
+crimes when training is done the model
+犯罪，当训练完成时，模型
+
+154
+00:05:13,520 --> 00:05:15,520
+is mostly Frozen other than some fine
+大部分被冻结，除了一些微调之外
+
+155
+00:05:15,520 --> 00:05:17,039
+tuning that can happen later that's what
+稍后可能会发生，这就是
+
+156
+00:05:17,039 --> 00:05:19,360
+the P stands for in GPT pre-trained
+GPT 预训练中的 P 代表的意思，
+
+157
+00:05:19,360 --> 00:05:20,840
+although in the future we will probably
+尽管将来我们可能会
+
+158
+00:05:20,840 --> 00:05:22,440
+have models that can learn continuously
+拥有可以连续学习的模型，而
+
+159
+00:05:22,440 --> 00:05:24,400
+rather than just uh during training and
+不仅仅是在训练和
+
+160
+00:05:24,400 --> 00:05:26,680
+fine-tuning now although chat GPT kind
+微调期间呃，尽管聊天 GPT
+
+161
+00:05:26,680 --> 00:05:29,000
+of got the ball rolling GPT isn't the
+有点让球滚动 GPT 不是'
+
+162
+00:05:29,000 --> 00:05:31,160
+only model out there in fact new models
+事实上，新的模型正在
+
+163
+00:05:31,160 --> 00:05:32,560
+are sprouting like
+像
+
+164
+00:05:32,560 --> 00:05:34,960
+mushrooms they vary a lot in terms of
+蘑菇一样涌现，它们在
+
+165
+00:05:34,960 --> 00:05:37,039
+speed capability and cost some can be
+速度能力和成本方面差异很大，有些可以
+
+166
+00:05:37,039 --> 00:05:38,680
+downloaded and run locally others are
+下载并在本地运行，有些
+
+167
+00:05:38,680 --> 00:05:41,400
+only online some are free or open source
+只能在线，有些是免费或开源的，
+
+168
+00:05:41,400 --> 00:05:43,440
+others are commercial products some are
+有些是商业产品，有些
+
+169
+00:05:43,440 --> 00:05:45,560
+super easy to use While others require
+非常简单 虽然其他需要
+
+170
+00:05:45,560 --> 00:05:47,840
+complicated technical setup some are
+复杂的技术设置，但有些
+
+171
+00:05:47,840 --> 00:05:50,199
+specialized for certain use cases others
+专门用于某些用例，其他
+
+172
+00:05:50,199 --> 00:05:51,919
+are more General and can be used for
+则更通用，几乎可以用于
+
+173
+00:05:51,919 --> 00:05:54,600
+almost anything and some are baked into
+任何东西，有些以
+
+174
+00:05:54,600 --> 00:05:56,680
+products in the form of co-pilots or or
+副驾驶或
+
+175
+00:05:56,680 --> 00:06:00,120
+chat windows it's it's the Wild West
+聊天窗口的形式融入产品中，这就是狂野西部，
+
+176
+00:06:00,120 --> 00:06:01,880
+just keep in mind that you generally get
+只是保留 请记住，
+
+177
+00:06:01,880 --> 00:06:04,560
+what you pay for so with a free model
+一分钱一分货，因此使用免费模型，
+
+178
+00:06:04,560 --> 00:06:06,720
+you may just be getting a smart high
+您可能只是在地下室找到一个聪明的
+
+179
+00:06:06,720 --> 00:06:08,280
+school student in your basement rather
+高中生，而
+
+180
+00:06:08,280 --> 00:06:11,000
+than Einstein the difference between for
+不是爱因斯坦。
+
+181
+00:06:11,000 --> 00:06:15,840
+example GPT 3.5 and GPT 4 is massive
+例如，GPT 3.5 和 GPT 4 之间的区别是巨大的，请
+
+182
+00:06:15,840 --> 00:06:17,280
+note that there are different types of
+注意，有不同类型的模型
+
+183
+00:06:17,280 --> 00:06:18,800
+generative AI models that generate
+生成不同类型内容的生成 AI 模型
+
+184
+00:06:18,800 --> 00:06:20,800
+different types of content textto text
+
+185
+00:06:20,800 --> 00:06:23,560
+models like gpc4 take text as input and
+像 gpc4 这样的文本到文本模型将文本作为输入并
+
+186
+00:06:23,560 --> 00:06:25,680
+generate text as output the text can be
+生成文本作为输出 文本可以是
+
+187
+00:06:25,680 --> 00:06:27,240
+natural language but it can also be
+自然语言，但也可以是
+
+188
+00:06:27,240 --> 00:06:29,720
+structured information like code Json
+结构化信息，例如代码 Json
+
+189
+00:06:29,720 --> 00:06:32,319
+HTML I use this a lot myself to generate
+HTML 我自己经常使用它来生成
+
+190
+00:06:32,319 --> 00:06:34,080
+code when programming uh it saves an
+代码 编程呃，它节省了
+
+191
+00:06:34,080 --> 00:06:35,960
+incredible amount of time and I also
+大量的时间，我还
+
+192
+00:06:35,960 --> 00:06:37,840
+learn a lot from the code it generates
+从代码中学到了很多东西，它生成
+
+193
+00:06:37,840 --> 00:06:39,319
+text to image models will generate
+文本到图像模型，将生成
+
+194
+00:06:39,319 --> 00:06:41,199
+images describe what you want and an
+图像描述你想要的内容，并
+
+195
+00:06:41,199 --> 00:06:42,840
+image gets generated for you you can
+为你生成图像，你
+
+196
+00:06:42,840 --> 00:06:45,599
+even pick a style image to image models
+甚至可以选择一种风格图像到图像模型
+
+197
+00:06:45,599 --> 00:06:47,599
+can do things like transforming or
+可以做的事情 诸如转换或
+
+198
+00:06:47,599 --> 00:06:50,000
+combining images and we have image to
+组合图像之类的事情，我们有图像到
+
+199
+00:06:50,000 --> 00:06:52,120
+text models which describe the contents
+文本模型，用于描述给
+
+200
+00:06:52,120 --> 00:06:54,479
+of a given image and speech to text
+定图像的内容，而语音到文本模型则
+
+201
+00:06:54,479 --> 00:06:56,520
+models create voice transcriptions which
+创建语音转录，这
+
+202
+00:06:56,520 --> 00:06:58,120
+is useful for things like uh meeting
+对于诸如会议记录文本之类的事情很有用。音频模型，
+
+203
+00:06:58,120 --> 00:07:00,840
+notes text Audio models they generate
+它们
+
+204
+00:07:00,840 --> 00:07:02,919
+music or sounds from a prompt for
+根据提示生成音乐或声音。
+
+205
+00:07:02,919 --> 00:07:04,919
+example here is some sound generated
+例如，这里是从提示中生成的一些声音，
+
+206
+00:07:04,919 --> 00:07:08,759
+from The Prompt people talking in a
+人们在忙碌中说话，
+
+207
+00:07:08,759 --> 00:07:13,240
+busy okay guys enough stop now thank you
+好吧，现在停下来，谢谢，
+
+208
+00:07:13,240 --> 00:07:15,160
+and there are even text to video models
+甚至还有文本到视频模型，可以根据
+
+209
+00:07:15,160 --> 00:07:17,080
+that generate videos from a prompt
+提示生成视频，
+
+210
+00:07:17,080 --> 00:07:18,960
+sooner or later we'll have infinite
+迟早我们将拥有无限的
+
+211
+00:07:18,960 --> 00:07:20,400
+movie series that autog generate the
+电影系列，自动生成
+
+212
+00:07:20,400 --> 00:07:22,280
+next episode tailored to your tastes as
+下一个 根据您的口味量身定制的剧集，因为
+
+213
+00:07:22,280 --> 00:07:24,199
+you're watching kind of scary if you
+您正在观看，如果您
+
+214
+00:07:24,199 --> 00:07:26,400
+think about it one Trend now is
+考虑一下，有点可怕现在的一个趋势是
+
+215
+00:07:26,400 --> 00:07:28,759
+multimodal AI products meaning they
+多模式人工智能产品，这意味着它们将
+
+216
+00:07:28,759 --> 00:07:30,400
+combine different models into one
+不同的模型组合到一个
+
+217
+00:07:30,400 --> 00:07:32,599
+product so you can work with text images
+产品中，这样您就可以处理文本图像
+
+218
+00:07:32,599 --> 00:07:35,479
+audio Etc without switching tools the
+音频等，而无需切换工具
+
+219
+00:07:35,479 --> 00:07:37,639
+chat GPT mobile app is a good example of
+聊天GPT移动应用程序 这是一个很好的例子，
+
+220
+00:07:37,639 --> 00:07:40,000
+this just for fun I took a photo of this
+只是为了好玩，我给这个房间拍了一张照片，
+
+221
+00:07:40,000 --> 00:07:41,919
+room and I asked where I could hide
+我问我可以把东西藏在哪里，
+
+222
+00:07:41,919 --> 00:07:44,400
+stuff I kind of like that it mentioned
+我有点喜欢它提到了
+
+223
+00:07:44,400 --> 00:07:46,199
+the stove but warned that that it could
+炉子，但警告说，
+
+224
+00:07:46,199 --> 00:07:48,039
+get hot there when I have things to
+当我有事情要弄清楚时，那里可能会很热。
+
+225
+00:07:48,039 --> 00:07:50,280
+figure out such as the contents of this
+正如本视频的内容一样，
+
+226
+00:07:50,280 --> 00:07:52,720
+video I like to take walks using chat
+我喜欢使用聊天
+
+227
+00:07:52,720 --> 00:07:55,319
+GPT as as a sounding board I start by
+GPT 作为共鸣板来散步，我首先会
+
+228
+00:07:55,319 --> 00:07:57,960
+saying always respond with the word okay
+说，总是用“好的”这个词来回答，
+
+229
+00:07:57,960 --> 00:07:59,960
+unless I ask you for something that way
+除非我向你询问什么，这样在
+
+230
+00:07:59,960 --> 00:08:01,879
+it'll just listen and not interrupt
+
+231
+00:08:01,879 --> 00:08:03,840
+after I finish dumping my thoughts I ask
+我倾倒完我的东西后，它就会只是听而不打扰。 我
+
+232
+00:08:03,840 --> 00:08:06,000
+for feedback we have some discussion and
+请求反馈，我们进行了一些讨论，
+
+233
+00:08:06,000 --> 00:08:07,680
+then I ask it to summarize and text
+然后我要求它进行总结和文字处理，我
+
+234
+00:08:07,680 --> 00:08:09,680
+afterwards I really recommend trying
+真的建议尝试一下，这
+
+235
+00:08:09,680 --> 00:08:11,159
+this it's it's a really useful way to
+是使用这样的工具的一种非常有用的方法，事实
+
+236
+00:08:11,159 --> 00:08:13,919
+use tools like this turns out Einstein
+证明爱因斯坦并
+
+237
+00:08:13,919 --> 00:08:15,520
+isn't stuck in the basement after all
+没有被困在地下室里，毕竟
+
+238
+00:08:15,520 --> 00:08:17,520
+you can take him out for a walk
+你可以采取一切措施 他出去散步
+
+239
+00:08:17,520 --> 00:08:19,680
+initially language models were just word
+最初，语言模型只是文字
+
+240
+00:08:19,680 --> 00:08:22,000
+predictors statistical machines with
+预测统计机器，
+
+241
+00:08:22,000 --> 00:08:24,360
+limited practical use but as they became
+实际用途有限，但随着它们变得越来越
+
+242
+00:08:24,360 --> 00:08:26,440
+larger and were trained on more data
+大，接受了更多数据的训练，
+
+243
+00:08:26,440 --> 00:08:28,240
+they started gaining emergent
+它们开始获得新兴的
+
+244
+00:08:28,240 --> 00:08:30,360
+capabilities expected capabilities that
+能力，预期的能力
+
+245
+00:08:30,360 --> 00:08:31,840
+surprised even the developers of the
+甚至让技术开发人员感到惊讶，
+
+246
+00:08:31,840 --> 00:08:34,120
+technology they could roleplay write
+他们可以角色扮演
+
+247
+00:08:34,120 --> 00:08:36,640
+poetry write high quality code discuss
+写诗写 高质量的代码讨论
+
+248
+00:08:36,640 --> 00:08:38,360
+company strategy provide legal and
+公司战略提供法律和
+
+249
+00:08:38,360 --> 00:08:41,519
+medical advice coach teach basically
+医疗建议教练教授基本上
+
+250
+00:08:41,519 --> 00:08:43,640
+creative and intellectual things that
+创造性和智力的东西，这些东西
+
+251
+00:08:43,640 --> 00:08:45,959
+only humans could do previously it turns
+以前只有人类才能做到，事实
+
+252
+00:08:45,959 --> 00:08:47,640
+out that when a model has seen enough
+证明，当模型看到足够的
+
+253
+00:08:47,640 --> 00:08:49,640
+text and images it starts to see
+文本和图像时，它开始看到
+
+254
+00:08:49,640 --> 00:08:51,519
+patterns and understand higher level
+模式并理解更高层次的
+
+255
+00:08:51,519 --> 00:08:53,519
+Concepts just like a baby learning to
+概念，就像一个模型一样。 宝贝学习
+
+256
+00:08:53,519 --> 00:08:55,279
+understand the world let's take a simple
+理解世界 让我们举一个简单的
+
+257
+00:08:55,279 --> 00:08:57,800
+example I'll give gpc4 this little
+例子 我会给 gpc4 这张小
+
+258
+00:08:57,800 --> 00:09:00,240
+drawing that involves a string a pair of
+图，其中包括一根绳子 一把
+
+259
+00:09:00,240 --> 00:09:03,680
+scissors an egg a pot and a fire what
+剪刀 一个鸡蛋 一个锅和一把火
+
+260
+00:09:03,680 --> 00:09:05,680
+will happen if I use the scissors the
+如果我使用剪刀会发生什么
+
+261
+00:09:05,680 --> 00:09:07,760
+model has most likely not been trained
+模型很可能没有经过训练
+
+262
+00:09:07,760 --> 00:09:10,040
+on this exact scenario yet it gave a
+在这个确切的场景中，它给出了一个
+
+263
+00:09:10,040 --> 00:09:11,760
+pretty good answer which demonstrates a
+很好的答案，展示了对
+
+264
+00:09:11,760 --> 00:09:13,079
+basic understanding of the nature of
+
+265
+00:09:13,079 --> 00:09:16,680
+scissors eggs gravity and heat when GPT
+GPT 4 发布时剪刀蛋重力和热量性质的基本理解
+
+266
+00:09:16,680 --> 00:09:18,720
+4 was released I started using it as a
+我开始使用它作为
+
+267
+00:09:18,720 --> 00:09:20,839
+coding assistant and I was blown away
+编码助手，
+
+268
+00:09:20,839 --> 00:09:22,600
+when prompted effectively it was a
+当有效提示时我感到震惊，它是一个
+
+269
+00:09:22,600 --> 00:09:23,920
+better programmer than anyone I've
+更好的 程序员比我共事过的任何人都更擅长
+
+270
+00:09:23,920 --> 00:09:25,800
+worked with same with article writing
+撰写
+
+271
+00:09:25,800 --> 00:09:27,839
+product design Workshop planning and
+产品设计研讨会规划，而
+
+272
+00:09:27,839 --> 00:09:29,920
+just about anything I used it for for
+我用它来解决
+
+273
+00:09:29,920 --> 00:09:32,040
+the main bottleneck was my prompt
+主要瓶颈的任何事情都是我的即时
+
+274
+00:09:32,040 --> 00:09:33,920
+engineering skills so I decided to make
+工程技能，所以我决定进行
+
+275
+00:09:33,920 --> 00:09:35,920
+a career shift and focus entirely on
+职业转变，完全专注于
+
+276
+00:09:35,920 --> 00:09:37,160
+learning and teaching how to make this
+学习和教授如何 让这项
+
+277
+00:09:37,160 --> 00:09:40,320
+technology useful hence this video now
+技术变得有用，因此现在这个视频让
+
+278
+00:09:40,320 --> 00:09:41,920
+let's take a step back and look at the
+我们退后一步，看看大约
+
+279
+00:09:41,920 --> 00:09:44,920
+implications for 300,000 years or so we
+30 万年以来我们
+
+280
+00:09:44,920 --> 00:09:46,519
+homosapiens have been the most
+智人一直是
+
+281
+00:09:46,519 --> 00:09:48,640
+intelligent species on Earth depending
+地球上最聪明的物种，这
+
+282
+00:09:48,640 --> 00:09:50,519
+of course on how you define intelligence
+当然取决于你如何定义智力，
+
+283
+00:09:50,519 --> 00:09:51,839
+but the thing is our intellectual
+但问题是我们的智力
+
+284
+00:09:51,839 --> 00:09:53,440
+capabilities aren't really improving
+能力并不高。
+
+285
+00:09:53,440 --> 00:09:55,200
+that much our brains are about the same
+我们的大脑并没有真正改善那么多，与
+
+286
+00:09:55,200 --> 00:09:56,920
+size same weight as they've been for
+它们几千年来的大小和重量差不多，
+
+287
+00:09:56,920 --> 00:09:58,680
+thousands of years computers on the
+
+288
+00:09:58,680 --> 00:10:00,760
+other hand have been around for only 80
+另一方面，计算机只出现了 80
+
+289
+00:10:00,760 --> 00:10:02,880
+years or so and now with generative AI
+年左右，现在有了生成式人工智能，
+
+290
+00:10:02,880 --> 00:10:04,720
+they are suddenly capable of speaking
+它们突然能够说
+
+291
+00:10:04,720 --> 00:10:06,760
+human languages fluently and carrying
+人类语言了 流利地
+
+292
+00:10:06,760 --> 00:10:08,320
+out an increasing number of intellectual
+执行越来越多
+
+293
+00:10:08,320 --> 00:10:10,079
+creative tasks that previously only
+以前只有
+
+294
+00:10:10,079 --> 00:10:12,279
+humans could do so we are right here at
+人类才能完成的智力创造性任务，所以我们正处于
+
+295
+00:10:12,279 --> 00:10:14,200
+the Crossing Point where AI is better at
+交叉点，人工智能在
+
+296
+00:10:14,200 --> 00:10:15,839
+some things and humans are better at
+某些事情上做得更好，人类在
+
+297
+00:10:15,839 --> 00:10:17,880
+some things but ai's capabilities are
+某些事情上做得更好，但人工智能的能力正在
+
+298
+00:10:17,880 --> 00:10:19,880
+improving at an exponential rate while
+以指数级速度提高，而
+
+299
+00:10:19,880 --> 00:10:22,320
+ours aren't we don't know how long that
+我们的不是，我们不知道这种
+
+300
+00:10:22,320 --> 00:10:24,040
+exponential Improvement will continue or
+指数级的进步会持续多久，或者
+
+301
+00:10:24,040 --> 00:10:25,839
+if it will level off at some point but
+是否会在某个时候趋于平稳，但
+
+302
+00:10:25,839 --> 00:10:27,600
+we're definitely entering a new world
+我们肯定正在进入一个新的世界
+
+303
+00:10:27,600 --> 00:10:29,240
+order now this isn't the first
+秩序，这不是
+
+304
+00:10:29,240 --> 00:10:31,079
+Revolution we've experienced we tamed
+我们经历的第一次革命，我们驯服了
+
+305
+00:10:31,079 --> 00:10:33,480
+fire we learned how to do agriculture we
+火 我们学会了如何从事农业 我们
+
+306
+00:10:33,480 --> 00:10:35,760
+invented the printing press steam power
+发明了印刷机 蒸汽动力
+
+307
+00:10:35,760 --> 00:10:37,800
+Telegraph these were all revolutionary
+电报 这些都是革命性的
+
+308
+00:10:37,800 --> 00:10:39,519
+changes but they took decades or
+变化，但它们花了几十年或几个
+
+309
+00:10:39,519 --> 00:10:42,160
+centuries to become widespread in the AI
+世纪才在人工智能
+
+310
+00:10:42,160 --> 00:10:44,079
+Revolution new technology spreads
+革命中广泛传播 新技术
+
+311
+00:10:44,079 --> 00:10:46,639
+worldwide almost instantly dealing with
+几乎立即传播到全世界 处理
+
+312
+00:10:46,639 --> 00:10:48,839
+this rate of change is a huge challenge
+这种变化速度对双方来说都是一个巨大的挑战
+
+313
+00:10:48,839 --> 00:10:50,480
+for both individuals and
+个人和
+
+314
+00:10:50,480 --> 00:10:52,680
+companies I've noticed that people and
+公司我注意到，当谈到人工智能时，人们和
+
+315
+00:10:52,680 --> 00:10:54,320
+companies tend to fall into different
+公司往往会陷入不同的
+
+316
+00:10:54,320 --> 00:10:56,200
+kind of mindset categories when it comes
+思维类别，
+
+317
+00:10:56,200 --> 00:10:59,639
+to AI on one side we have denial the
+一方面我们否认
+
+318
+00:10:59,639 --> 00:11:02,079
+belief that AI cannot do my job or we
+人工智能无法完成我的工作，或者我们
+
+319
+00:11:02,079 --> 00:11:03,440
+don't have time to look into this
+没有时间研究这一点
+
+320
+00:11:03,440 --> 00:11:05,480
+technology this is a dangerous place to
+技术这是一个危险的地方，
+
+321
+00:11:05,480 --> 00:11:08,279
+be a common saying is AI might not take
+俗话说，人工智能可能不会抢走
+
+322
+00:11:08,279 --> 00:11:11,600
+your job but people using AI will and
+你的工作，但使用人工智能的人会，
+
+323
+00:11:11,600 --> 00:11:13,120
+this is true for both individuals and
+这对于天平另一边的个人和公司来说都是如此，
+
+324
+00:11:13,120 --> 00:11:15,040
+companies on the other side of the scale
+
+325
+00:11:15,040 --> 00:11:16,800
+we have panic and despair the belief
+我们对人工智能正在消失的信念感到恐慌和绝望
+
+326
+00:11:16,800 --> 00:11:18,360
+that AI is going to take my job no
+接受我的工作，
+
+327
+00:11:18,360 --> 00:11:19,959
+matter what AI is going to make my
+无论人工智能会让我的
+
+328
+00:11:19,959 --> 00:11:21,959
+company go bankrupt neither of these
+公司破产，这两种
+
+329
+00:11:21,959 --> 00:11:24,200
+mindsets are helpful so I propose a
+心态都没有帮助，所以我提出了一个
+
+330
+00:11:24,200 --> 00:11:26,240
+middle ground a balanced positive
+中间立场，一种平衡的积极
+
+331
+00:11:26,240 --> 00:11:28,680
+mindset AI is going to make me my team
+心态，人工智能将使我，我的团队，
+
+332
+00:11:28,680 --> 00:11:31,800
+my company insanely productive
+我的公司，
+
+333
+00:11:31,800 --> 00:11:33,880
+personally with this mindset I feel like
+个人以这种心态变得非常高效。 就像
+
+334
+00:11:33,880 --> 00:11:35,839
+I've gained superpowers I can go from
+我获得了超能力一样，我可以
+
+335
+00:11:35,839 --> 00:11:38,360
+idea to result in so much shorter time I
+在更短的时间内从想法到结果，我
+
+336
+00:11:38,360 --> 00:11:40,279
+can focus more on what I want to achieve
+可以更多地专注于我想要实现的目标，
+
+337
+00:11:40,279 --> 00:11:41,800
+and less on the grunt workk of building
+而不是构建东西的繁重工作，
+
+338
+00:11:41,800 --> 00:11:43,920
+things and I'm learning a lot faster too
+而且我学得也更快，
+
+339
+00:11:43,920 --> 00:11:45,399
+it's like having an awesome Mentor with
+就像拥有一个 很棒的导师一直在
+
+340
+00:11:45,399 --> 00:11:47,720
+me at all times this mindset not only
+我身边，这种心态不仅
+
+341
+00:11:47,720 --> 00:11:49,519
+feels good but it also equips you for
+感觉很好，而且还为你的
+
+342
+00:11:49,519 --> 00:11:51,480
+the future makes you less likely to lose
+未来做好了准备，使你不太可能失去
+
+343
+00:11:51,480 --> 00:11:53,480
+your job or your company and more likely
+工作或公司，并且更有可能
+
+344
+00:11:53,480 --> 00:11:55,440
+to thrive in the age of AI despite all
+在人工智能时代蓬勃发展，尽管存在所有
+
+345
+00:11:55,440 --> 00:11:56,200
+the
+
+346
+00:11:56,200 --> 00:11:59,360
+uncertainty so one important question is
+不确定性，所以有一个重要的问题 这
+
+347
+00:11:59,360 --> 00:12:02,200
+is human role X needed in the age of AI
+是人工智能时代需要的人类角色X，
+
+348
+00:12:02,200 --> 00:12:03,760
+for example are doctors needed
+例如，需要医生、
+
+349
+00:12:03,760 --> 00:12:06,800
+developers lawyers CEOs uh whatever so
+开发人员、律师、首席执行官，嗯，无论如何，随着
+
+350
+00:12:06,800 --> 00:12:08,279
+this question becomes more and more
+
+351
+00:12:08,279 --> 00:12:11,240
+relevant as the AI capabilities improve
+人工智能能力的提高，这个问题变得越来越相关，
+
+352
+00:12:11,240 --> 00:12:13,639
+well some jobs will disappear for sure
+有些工作肯定会消失，
+
+353
+00:12:13,639 --> 00:12:15,720
+but for most roles I think we humans are
+但对于大多数角色，我认为我们人类是
+
+354
+00:12:15,720 --> 00:12:17,399
+still needed someone with domain
+仍然需要具有领域
+
+355
+00:12:17,399 --> 00:12:19,240
+knowledge still needs to decide what to
+知识的人仍然需要决定向
+
+356
+00:12:19,240 --> 00:12:21,760
+ask the AI how to formulate The Prompt
+人工智能提出
+
+357
+00:12:21,760 --> 00:12:23,639
+what context needs to be provided and
+什么问题如何制定提示需要提供什么上下文以及
+
+358
+00:12:23,639 --> 00:12:25,880
+how to evaluate the result AI models
+如何评估结果人工智能模型
+
+359
+00:12:25,880 --> 00:12:27,760
+aren't perfect they can be absolutely
+并不完美他们有时可能非常
+
+360
+00:12:27,760 --> 00:12:30,000
+brilliant sometimes but sometimes also
+聪明但有时也
+
+361
+00:12:30,000 --> 00:12:32,160
+terribly stupid they can sometimes
+非常愚蠢他们 有时会
+
+362
+00:12:32,160 --> 00:12:33,800
+hallucinate and provide bogus
+产生幻觉并
+
+363
+00:12:33,800 --> 00:12:36,240
+information in a very convincing way so
+以非常令人信服的方式提供虚假信息，因此
+
+364
+00:12:36,240 --> 00:12:38,079
+when should you trust the AI response
+您何时应该信任人工智能响应
+
+365
+00:12:38,079 --> 00:12:39,920
+when should you double check or do the
+何时应该仔细检查或
+
+366
+00:12:39,920 --> 00:12:41,959
+work yourself what about legal
+自己完成工作法律
+
+367
+00:12:41,959 --> 00:12:43,800
+compliance data security what
+合规性数据安全性
+
+368
+00:12:43,800 --> 00:12:45,560
+information can we send to an AI model
+我们可以向人工智能模型发送哪些信息
+
+369
+00:12:45,560 --> 00:12:48,000
+and where is that data stored a human
+以及该数据在哪里
+
+370
+00:12:48,000 --> 00:12:50,000
+expert is needed to make these judgment
+需要人类专家来做出这些
+
+371
+00:12:50,000 --> 00:12:51,800
+calls and compensate for the weaknesses
+判断并弥补
+
+372
+00:12:51,800 --> 00:12:54,040
+of the AI model so I recommend thinking
+人工智能模型的弱点，所以我建议将
+
+373
+00:12:54,040 --> 00:12:56,639
+of AI as your colleague a genius but
+人工智能视为你的同事，一个天才，但
+
+374
+00:12:56,639 --> 00:12:58,399
+also an oddball with some personal
+也是一个有一些个人
+
+375
+00:12:58,399 --> 00:12:59,760
+quirks that you need to learn to work
+怪癖的怪人，你需要学习与
+
+376
+00:12:59,760 --> 00:13:01,240
+with you need to recognize when your
+你一起工作 作为
+
+377
+00:13:01,240 --> 00:13:04,040
+Genius colleague is drunk as a doctor my
+一名医生，我的
+
+378
+00:13:04,040 --> 00:13:06,000
+AI colleague can help diagnose rare
+人工智能同事可以帮助诊断
+
+379
+00:13:06,000 --> 00:13:08,240
+diseases that I didn't even know existed
+我什至不知道的罕见疾病的存在
+
+380
+00:13:08,240 --> 00:13:10,240
+as a lawyer my AI colleague could do
+作为一名律师，我的人工智能同事可以进行
+
+381
+00:13:10,240 --> 00:13:12,079
+legal research and review contracts
+法律研究并审查合同，
+
+382
+00:13:12,079 --> 00:13:13,720
+allowing me to spend more time with my
+让我可以花更多时间与
+
+383
+00:13:13,720 --> 00:13:16,680
+client or as a teacher my AI colleague
+客户相处，或者作为一名律师 老师，我的 AI 同事
+
+384
+00:13:16,680 --> 00:13:18,800
+could grade tests help generate course
+可以对测试进行评分，帮助生成课程
+
+385
+00:13:18,800 --> 00:13:20,639
+content provide individual support to
+内容，为学生提供个人支持
+
+386
+00:13:20,639 --> 00:13:22,959
+students Etc and if you're not sure how
+等等，如果您不确定
+
+387
+00:13:22,959 --> 00:13:26,680
+it can help you just ask it I work as X
+它如何帮助您，只需询问它，我作为 X 工作，
+
+388
+00:13:26,680 --> 00:13:29,199
+how can you help me overall I find that
+您总体上如何帮助我，我发现
+
+389
+00:13:29,199 --> 00:13:31,920
+the combination of human plus AI That's
+人类的结合 加人工智能这就是
+
+390
+00:13:31,920 --> 00:13:34,399
+where the magic lies it's important to
+神奇之处，
+
+391
+00:13:34,399 --> 00:13:36,399
+distinguish between the models and the
+区分模型和
+
+392
+00:13:36,399 --> 00:13:38,519
+products that build on top of them as a
+构建在模型之上的产品非常重要，作为
+
+393
+00:13:38,519 --> 00:13:39,839
+user you don't normally interact with
+用户，您通常不会
+
+394
+00:13:39,839 --> 00:13:41,959
+the model directly instead you interact
+直接与模型交互，而是
+
+395
+00:13:41,959 --> 00:13:43,920
+with a product website or a mobile app
+与产品网站或移动应用程序交互，而产品网站或移动应用程序又
+
+396
+00:13:43,920 --> 00:13:45,560
+which in turn talks to the model behind
+与幕后模型对话
+
+397
+00:13:45,560 --> 00:13:47,199
+the scenes products provide a user
+产品提供用户
+
+398
+00:13:47,199 --> 00:13:49,320
+interface and add capabilities and data
+界面并添加
+
+399
+00:13:49,320 --> 00:13:51,600
+that aren't part of the model itself for
+不属于模型本身的功能和数据，
+
+400
+00:13:51,600 --> 00:13:54,040
+example the chat gbt product keeps track
+例如聊天 GBT 产品会跟踪
+
+401
+00:13:54,040 --> 00:13:56,720
+of your message history while the GPT 4
+您的消息历史记录，而 GPT 4
+
+402
+00:13:56,720 --> 00:13:58,560
+model itself doesn't have any message
+模型本身没有任何消息
+
+403
+00:13:58,560 --> 00:14:00,639
+history history as a developer you can
+作为开发人员的历史，您可以
+
+404
+00:14:00,639 --> 00:14:02,519
+use these models to build your own AI
+使用这些模型来构建自己的人工智能
+
+405
+00:14:02,519 --> 00:14:04,240
+powered products and features for
+产品和功能，
+
+406
+00:14:04,240 --> 00:14:06,040
+example let's say you have an e-learning
+例如，假设您有一个电子学习
+
+407
+00:14:06,040 --> 00:14:08,279
+site you could add a chat bot to answer
+网站，您可以添加一个聊天机器人来回答
+
+408
+00:14:08,279 --> 00:14:10,079
+questions about the courses or as a
+有关课程的问题，或者作为
+
+409
+00:14:10,079 --> 00:14:12,320
+recruitment company you might build AI
+您可能建立的招聘公司 AI
+
+410
+00:14:12,320 --> 00:14:13,759
+powered tools to help evaluate
+支持的工具可帮助评估
+
+411
+00:14:13,759 --> 00:14:15,600
+candidates in both these cases your
+候选人，在这两种情况下，您的
+
+412
+00:14:15,600 --> 00:14:17,519
+users interact with your product and
+用户与您的产品交互，
+
+413
+00:14:17,519 --> 00:14:18,720
+then your product interacts with the
+然后您的产品与
+
+414
+00:14:18,720 --> 00:14:20,800
+model this is done via apis or
+模型交互，这是通过 API 或应用程序编程接口完成的，这些接口
+
+415
+00:14:20,800 --> 00:14:22,800
+application programming interfaces which
+
+416
+00:14:22,800 --> 00:14:24,839
+allow your code to talk to the model so
+允许您的代码与模型对话，所以
+
+417
+00:14:24,839 --> 00:14:27,360
+here's a simple example of using open AI
+这里是一个使用的简单示例 开放AI
+
+418
+00:14:27,360 --> 00:14:29,240
+API to talk to GP
+API与GP交谈
+
+419
+00:14:29,240 --> 00:14:31,279
+not a lot of code needed and here's
+不需要很多代码，这是
+
+420
+00:14:31,279 --> 00:14:33,120
+another example of the automatic
+
+421
+00:14:33,120 --> 00:14:34,600
+candidate evaluation thing I talked
+我谈到的自动候选人评估的另一个例子，
+
+422
+00:14:34,600 --> 00:14:37,160
+about it takes a job description and a
+它需要一个职位描述和
+
+423
+00:14:37,160 --> 00:14:39,560
+bunch of CVS in a folder and evaluates
+文件夹中的一堆CVS，并
+
+424
+00:14:39,560 --> 00:14:41,959
+each candidate automatically and
+自动评估每个候选人，顺便说一句，
+
+425
+00:14:41,959 --> 00:14:43,880
+incidentally the code itself is mostly
+代码本身是 主要是
+
+426
+00:14:43,880 --> 00:14:46,560
+AI written as a product developer you
+作为产品开发人员编写的人工智能，你
+
+427
+00:14:46,560 --> 00:14:48,639
+can use AI models kind of like an
+可以使用人工智能模型，就像
+
+428
+00:14:48,639 --> 00:14:50,959
+external brain to insert intelligence
+外部大脑一样，将智能插入
+
+429
+00:14:50,959 --> 00:14:54,120
+into your product very powerful in order
+到你的产品中，非常强大，
+
+430
+00:14:54,120 --> 00:14:56,600
+to use generative AI effectively you
+为了有效地使用生成式人工智能，你
+
+431
+00:14:56,600 --> 00:14:58,720
+need to get good at prompt engineering
+需要擅长即时工程
+
+432
+00:14:58,720 --> 00:15:00,920
+or prompt design as I prefer to call it
+或即时设计，我更喜欢这样称呼它
+
+433
+00:15:00,920 --> 00:15:02,880
+this skill is needed both as a user and
+作为用户和
+
+434
+00:15:02,880 --> 00:15:04,759
+as a product developer because in both
+产品开发人员都需要这项技能，因为在这两种
+
+435
+00:15:04,759 --> 00:15:06,639
+cases you need to be able to craft
+情况下，您都需要能够制作
+
+436
+00:15:06,639 --> 00:15:08,399
+effective prompts that produce useful
+有效的提示，
+
+437
+00:15:08,399 --> 00:15:10,320
+results from an AI model here's an
+从人工智能模型中产生有用的结果，这里有一个
+
+438
+00:15:10,320 --> 00:15:12,199
+example let's say I want help planning a
+例子，假设我需要帮助规划一个
+
+439
+00:15:12,199 --> 00:15:15,199
+workshop this prompt is unlikely to give
+研讨会，这个提示不太可能实现 给出
+
+440
+00:15:15,199 --> 00:15:17,079
+useful results because no matter how
+有用的结果，因为无论
+
+441
+00:15:17,079 --> 00:15:19,320
+smart the AI is if it doesn't know the
+人工智能有多聪明，如果它不知道
+
+442
+00:15:19,320 --> 00:15:21,440
+context of my workshop it can only give
+我的研讨会的背景，它只能
+
+443
+00:15:21,440 --> 00:15:23,560
+fague high level recommendations the
+给出高水平的建议
+
+444
+00:15:23,560 --> 00:15:25,320
+second prompt is better now I provided
+第二个提示更好，现在我提供了
+
+445
+00:15:25,320 --> 00:15:27,160
+some context this is normally done
+一些背景，这通常是迭代完成的，
+
+446
+00:15:27,160 --> 00:15:29,399
+iteratively write a prompt look at the
+写一个提示看看
+
+447
+00:15:29,399 --> 00:15:31,560
+result add a follow-up prompt to provide
+结果添加一个后续提示以提供
+
+448
+00:15:31,560 --> 00:15:33,600
+more information or edit the original
+更多信息或编辑原始
+
+449
+00:15:33,600 --> 00:15:35,399
+prompt and rinse and repeat until you
+提示并冲洗并重复，直到您
+
+450
+00:15:35,399 --> 00:15:37,839
+get a good result in this third approach
+在第三种方法中获得良好的结果，
+
+451
+00:15:37,839 --> 00:15:39,959
+I ask it to interview me so instead of
+我要求它采访我，所以
+
+452
+00:15:39,959 --> 00:15:42,199
+me providing a bunch of context up front
+我不需要预先提供一堆上下文，
+
+453
+00:15:42,199 --> 00:15:43,759
+I'm basically saying what do you need to
+我' 我基本上是说你需要
+
+454
+00:15:43,759 --> 00:15:45,399
+know in order order to help me and then
+知道什么才能帮助我，然后在
+
+455
+00:15:45,399 --> 00:15:47,920
+it will propose a workshop agenda after
+
+456
+00:15:47,920 --> 00:15:49,759
+I often combine these two I provide a
+我经常将这两者结合起来之后，它会提出一个研讨会议程，我提供
+
+457
+00:15:49,759 --> 00:15:51,600
+bit of context and then I tell it to ask
+一些背景信息，然后我告诉它询问
+
+458
+00:15:51,600 --> 00:15:53,360
+me if it needs any more information
+我是否需要更多信息
+
+459
+00:15:53,360 --> 00:15:54,759
+these are just some examples of prompt
+这些 这些只是即时工程技术的一些示例，
+
+460
+00:15:54,759 --> 00:15:57,120
+engineering techniques so overall the
+因此总的来说，
+
+461
+00:15:57,120 --> 00:15:58,839
+better you get at prompt engineering the
+您在即时工程方面做得越好，
+
+462
+00:15:58,839 --> 00:16:00,519
+faster and better results you will get
+您从人工智能中获得的结果就越快、越好，有
+
+463
+00:16:00,519 --> 00:16:02,480
+from AI there are plenty of courses
+很多课程、
+
+464
+00:16:02,480 --> 00:16:04,639
+books videos articles to help you learn
+书籍、视频文章可以帮助您学习
+
+465
+00:16:04,639 --> 00:16:06,360
+this but the most important thing is is
+这一点，但最重要的是
+
+466
+00:16:06,360 --> 00:16:08,519
+to practice and Learn by doing a nice
+练习和 通过做学习的一个很好的
+
+467
+00:16:08,519 --> 00:16:09,920
+side effect is that you will become
+副作用是，你会变得
+
+468
+00:16:09,920 --> 00:16:11,920
+better at communicating in general since
+更好地沟通，因为
+
+469
+00:16:11,920 --> 00:16:13,639
+prompt engineering is really all about
+及时的工程实际上都是关于
+
+470
+00:16:13,639 --> 00:16:15,279
+Clarity and effective
+清晰度和有效的
+
+471
+00:16:15,279 --> 00:16:17,240
+communication I think the next Frontier
+沟通，我认为
+
+472
+00:16:17,240 --> 00:16:19,240
+for generative AI is autonomous agents
+生成人工智能的下一个前沿是带有工具的自主代理，
+
+473
+00:16:19,240 --> 00:16:21,040
+with tools these are AI powerered
+这些工具是人工智能驱动的
+
+474
+00:16:21,040 --> 00:16:23,160
+software entities that run on their own
+软件实体，运行在 他们自己的，
+
+475
+00:16:23,160 --> 00:16:24,560
+rather than just sitting around waiting
+而不是只是坐在那里等待
+
+476
+00:16:24,560 --> 00:16:26,079
+for you to prompt them all the time so
+你一直提示他们，所以
+
+477
+00:16:26,079 --> 00:16:28,279
+you go down to Einstein in your basement
+你去地下室的爱因斯坦那里，
+
+478
+00:16:28,279 --> 00:16:29,680
+and do what a good leader would do for a
+做一个好的领导者会为团队做的事情，
+
+479
+00:16:29,680 --> 00:16:31,880
+team you give him a high level Mission
+你给他一个高水平的使命
+
+480
+00:16:31,880 --> 00:16:33,600
+and the tools needed to accomplish it
+和完成它所需的工具
+
+481
+00:16:33,600 --> 00:16:35,199
+and then open the door and let him out
+然后打开门，让他出去
+
+482
+00:16:35,199 --> 00:16:36,800
+to run his own show without
+运行自己的节目，无需进行
+
+483
+00:16:36,800 --> 00:16:38,560
+micromanagement the tools could be
+微观管理。工具可以是
+
+484
+00:16:38,560 --> 00:16:40,440
+things like access to the internet
+诸如访问互联网、
+
+485
+00:16:40,440 --> 00:16:42,319
+access to money ability to send and
+访问金钱、发送和
+
+486
+00:16:42,319 --> 00:16:45,079
+receive messages order pizza or whatever
+接收消息、订购披萨或其他任何东西，
+
+487
+00:16:45,079 --> 00:16:47,160
+for this prompt engineering becomes even
+对于这种即时工程来说，变得
+
+488
+00:16:47,160 --> 00:16:49,399
+more important because your autonomous
+更加重要，因为你的自主性
+
+489
+00:16:49,399 --> 00:16:51,880
+tool wielding agent can do a lot of good
+工具挥舞代理可以做很多好事
+
+490
+00:16:51,880 --> 00:16:54,120
+or a lot of harm depending on how well
+或很多坏事，这取决于
+
+491
+00:16:54,120 --> 00:16:55,720
+you craft that mission
+你如何制定使命
+
+492
+00:16:55,720 --> 00:16:58,720
+statement all right let's wrap it up
+宣言好吧，让我们把它总结
+
+493
+00:16:58,720 --> 00:17:00,120
+here are the key things I hope you will
+在这里是我希望你能从
+
+494
+00:17:00,120 --> 00:17:02,600
+remember from this video generative AI
+这个视频中记住的关键事情生成人工智能
+
+495
+00:17:02,600 --> 00:17:04,240
+is a super useful tool that can help
+是一个超级有用的工具 可以
+
+496
+00:17:04,240 --> 00:17:06,439
+both you your team and your company in a
+在很大程度上帮助你、你的团队和你的公司，
+
+497
+00:17:06,439 --> 00:17:08,600
+big way the better you understand it the
+你对它了解得越多，
+
+498
+00:17:08,600 --> 00:17:10,559
+more likely it is to be an opportunity
+它就越有可能成为一个机会，而不是一个
+
+499
+00:17:10,559 --> 00:17:12,640
+rather than a threat generative AI is
+威胁。人工智能比
+
+500
+00:17:12,640 --> 00:17:14,839
+more powerful than you think the biggest
+你想象的更强大，最大的
+
+501
+00:17:14,839 --> 00:17:17,240
+limitation is not the technology but
+限制不是技术，而是
+
+502
+00:17:17,240 --> 00:17:19,880
+your imagination like what can I do and
+你的想象力，比如 我能做什么以及
+
+503
+00:17:19,880 --> 00:17:21,760
+your prompt engineering skills how do I
+你的即时工程技能 我该怎么
+
+504
+00:17:21,760 --> 00:17:24,640
+do it prompt engineeringdesign is a
+做 即时工程设计是一项
+
+505
+00:17:24,640 --> 00:17:27,280
+crucial skill like all new skills just
+至关重要的技能，就像所有新技能一样，只要
+
+506
+00:17:27,280 --> 00:17:29,000
+accept that you will kind of suck at it
+接受你一开始会有点烂的事实，
+
+507
+00:17:29,000 --> 00:17:31,160
+at first but you'll improve over time
+但随着时间的推移，你会
+
+508
+00:17:31,160 --> 00:17:33,679
+with deliberate practice so my best tip
+通过刻意练习而提高，所以我最好的建议 这
+
+509
+00:17:33,679 --> 00:17:36,039
+is experiment make this part of your
+是一个实验，使这成为您
+
+510
+00:17:36,039 --> 00:17:38,400
+day-to-day life and the Learning Happens
+日常生活的一部分，并且学习会
+
+511
+00:17:38,400 --> 00:17:40,039
+automatically hope this video was
+自动发生希望该视频对您有所
+
+512
+00:17:40,039 --> 00:17:41,490
+helpful thanks for
+帮助，感谢
+
+513
+00:17:41,490 --> 00:17:55,679
+[Music]
+
+514
+00:17:55,679 --> 00:17:58,679
+watching
+观看[音乐]
+
